@@ -24,3 +24,4 @@ for x in f:
             score+=6
 print(score)
 
+
