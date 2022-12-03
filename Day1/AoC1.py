@@ -10,4 +10,4 @@ for x in f:                  #Iterate through each line
 print("Value of highest Elf: " + str(max(elfs)))                 #Find max of Elfs
 print("Position of highest Elf: " + str(elfs.index(max(elfs))))  #Find position of Elfs
 elfs = sorted(elfs, reverse=True)     #Sort array
-print("The top 3 elfs are carrying " + str(elfs[0]+elfs[1]+elfs[2]) + " calories") #Print top 3 array results
+print("The top 3 elfs are carrying " + str(elfs[0]+elfs[1]+elfs[2]) + " calories") #Print top 3 array results 
